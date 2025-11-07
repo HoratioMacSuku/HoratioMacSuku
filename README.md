@@ -68,9 +68,8 @@ Exploring **automated risk detection models**, **data observability tooling**, a
 ---
 
 ### Connect
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Portfolio: [Your Portfolio Website](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:**   
+- **Email:** 
 
 ---
 
