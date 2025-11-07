@@ -67,10 +67,9 @@ Exploring **automated risk detection models**, **data observability tooling**, a
 
 ---
 
-### Connect
-- **LinkedIn:**   
-- **Email:** 
-
+### How to Connect
+- **LinkedIn:** [Horatio MacSuku](https://www.linkedin.com/in/horatio-macsuku/)  
+- **Email:** hmacsuku@googlemail.com
 ---
 
 <h3 align="center">Data You Can Trust — Frameworks You Can Scale</h3>
