@@ -5,11 +5,19 @@
 ---
 
 ### Portfolio Overview
-Welcome to my portfolio — a curated collection of automated validation frameworks designed to ensure **data integrity**, **regulatory compliance**, and **audit readiness** across high-stakes domains.
+Welcome to my portfolio — a curated suite of **production-grade frameworks** designed to deliver **data integrity**, **regulatory compliance**, and **privacy assurance** across high-stakes domains.
 
-Each project below demonstrates a **production-grade solution** tailored to specific regulatory environments, complete with validation logic, operational workflows, and reliability scoring.
+Each project reflects a deep understanding of industry-specific regulations, including **MiFID II**, **Basel III**, **GDPR**, **DPIA**, and **environmental mandates**.  
+These frameworks automate validation, enforce business and regulatory rules, and generate **audit-ready outputs** with built-in **reliability scoring**.
 
-Whether you're a **technical stakeholder**, **compliance officer**, or **business leader**, these frameworks are built to be **transparent**, **scalable**, and **easy to integrate**.
+Whether you're a **technical stakeholder**, **compliance officer**, or **business leader**, these solutions are built to be:
+
+- 🧩 Transparent  
+- ⚙️ Scalable  
+- 🔐 Integration-ready  
+- 🧠 Privacy by Design  
+
+---
 
 ---
 
