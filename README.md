@@ -19,6 +19,40 @@ Whether you're a **technical stakeholder**, **compliance officer**, or **busines
 
 ---
 
+##  Additional Frameworks
+
+###  Regulatory Reporting & Data Privacy Assurance Framework
+
+Combines **loan data validation** with **GDPR-aligned privacy enforcement**.
+
+**Key Highlights**
+-  96% reliability score  
+-  Enforces consent and access flags for PII  
+-  Generates DPIA summaries and audit-ready reports  
+-  Fully aligned with **FCA**, **PRA**, **EBA**, and **ICO** expectations  
+
+---
+
+###  Student Enrollment Data Privacy & Validation Framework
+
+Combines **enrollment data validation** with **GDPR-aligned privacy enforcement**.
+
+**Key Highlights**
+-  90% reliability score  
+-  Enforces consent, encryption, masking, and access flags for PII  
+-  Generates DPIA summaries and audit-ready reports  
+-  Fully aligned with **GDPR** expectations  
+
+---
+
+ *All frameworks are modular, automation-ready, and built for continuous compliance assurance.*
+
+
+
+
+
+
+
 ---
 
 ### Featured Projects
