@@ -12,10 +12,10 @@ These frameworks automate validation, enforce business and regulatory rules, and
 
 Whether you're a **technical stakeholder**, **compliance officer**, or **business leader**, these solutions are built to be:
 
-- 🧩 Transparent  
-- ⚙️ Scalable  
-- 🔐 Integration-ready  
-- 🧠 Privacy by Design  
+- Transparent  
+- Scalable  
+- Integration-ready  
+- Privacy by Design  
 
 ---
 
