@@ -47,7 +47,7 @@ Ensures **Basel III** and **IFRS 9** compliance for loan portfolio reporting.
 - Supports monthly/quarterly submissions to FCA, PRA, and EBA  
 
 
-###  5. Regulatory Reporting & Data Privacy Assurance Framework
+###  5. Regulatory Reporting & Data Privacy Assurance – Loan Data
 
 Combines **loan data validation** with **GDPR-aligned privacy enforcement**.
 
