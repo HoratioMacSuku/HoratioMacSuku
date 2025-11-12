@@ -20,34 +20,34 @@ Whether you're a **technical stakeholder**, **compliance officer**, or **busines
 
 ---
 
-### Featured Projects
+## Featured Projects
 
-#### 1. Equity Trade Data Quality Framework
+### 1. Equity Trade Data Quality Framework
 Ensures **MiFID II** and **FCA** compliance for daily equity trade submissions.  
 - 98% reliability score  
 - Validates ISINs, LEIs, timestamps, and trade quantities  
 - Fully audit-ready with exception handling and reporting  
 
-#### 2. Belgium Weekly Deposit Compliance Framework
+### 2. Belgium Weekly Deposit Compliance Framework
 Supports responsible gaming through **automated deposit monitoring**.  
 - Validates €200 weekly limit per player  
 - Detects breaches, missing IDs, and country mismatches  
 - Adaptable to other jurisdictions and gaming platforms  
 
-#### 3. Smart Water Meter Data Compliance Framework
+### 3. Smart Water Meter Data Compliance Framework
 Delivers accurate, sustainable reporting for environmental regulators.  
 - 100% reliability score  
 - Validates IoT readings, timestamps, and consumption thresholds  
 - Built for Ofwat and EA quarterly submissions  
 
-#### 4. Regulatory Loan Data Quality Framework
+### 4. Regulatory Loan Data Quality Framework
 Ensures **Basel III** and **IFRS 9** compliance for loan portfolio reporting.  
 - 88% reliability score  
 - Validates borrower mapping, balances, interest rates, and repayment status  
 - Supports monthly/quarterly submissions to FCA, PRA, and EBA  
 
 
-####  5. Regulatory Reporting & Data Privacy Assurance Framework
+###  5. Regulatory Reporting & Data Privacy Assurance Framework
 
 Combines **loan data validation** with **GDPR-aligned privacy enforcement**.
 
@@ -58,7 +58,7 @@ Combines **loan data validation** with **GDPR-aligned privacy enforcement**.
 -  Fully aligned with **FCA**, **PRA**, **EBA**, and **ICO** expectations  
 
 
-####  6. Student Enrollment Data Privacy & Validation Framework
+###  6. Student Enrollment Data Privacy & Validation Framework
 
 Combines **enrollment data validation** with **GDPR-aligned privacy enforcement**.
 
