@@ -4,7 +4,7 @@
 
 ---
 
-### Portfolio Overview
+## Portfolio Overview
 Welcome to my portfolio — a curated suite of **production-grade frameworks** designed to deliver **data integrity**, **regulatory compliance**, and **privacy assurance** across high-stakes domains.
 
 Each project reflects a deep understanding of industry-specific regulations, including **MiFID II**, **Basel III**, **GDPR**, **DPIA**, and **environmental mandates**.  
