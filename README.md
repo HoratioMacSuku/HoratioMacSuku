@@ -69,8 +69,7 @@ Combines **enrollment data validation** with **GDPR-aligned privacy enforcement*
 -  Fully aligned with **GDPR** expectations  
 
 ---
-
- *All frameworks are modular, automation-ready, and built for continuous compliance assurance.*
+All frameworks are modular, automation-ready, and built for continuous compliance assurance.
 ---
 
 
